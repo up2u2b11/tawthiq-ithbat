@@ -1,0 +1,70 @@
+# لقطة بعد التشغيل — 2026-11-16 23:00:34 +0300
+## git status --short archive/sijill
+ M archive/sijill/khatm_silsila.jsonl
+MM archive/sijill/ledger.jsonl
+MM archive/sijill/nafadh_index.json
+MM archive/sijill/nafadh_muhawalat.jsonl
+ M archive/sijill/ots/khatm_zaman.jsonl
+ M archive/sijill/tawthiq-20260911T200402064681.json
+ M archive/sijill/tawthiq-20260912T200633537901.json
+ M archive/sijill/tawthiq-20260917T134923348155.json
+ M archive/sijill/tawthiq-20260917T142715282495.json
+ M archive/sijill/tawthiq-20260917T144001825383.json
+M  archive/sijill/tawthiq-20260920T085947661973.json
+M  archive/sijill/tawthiq-20260920T085947706496.json
+M  archive/sijill/tawthiq-20260920T085947751208.json
+M  archive/sijill/tawthiq-20260920T085947795477.json
+M  archive/sijill/tawthiq-20261003T035736939258.json
+M  archive/sijill/tawthiq-20261003T035736940242.json
+MM archive/sijill/tawthiq-20261003T035736942351.json
+MM archive/sijill/tawthiq-20261003T035736944268.json
+MM archive/sijill/tawthiq-20261003T035736945192.json
+MM archive/sijill/tawthiq-20261003T035736946192.json
+MM archive/sijill/tawthiq-20261003T035736947275.json
+MM archive/sijill/tawthiq-20261003T035736950068.json
+MM archive/sijill/tawthiq-20261003T035736950926.json
+MM archive/sijill/tawthiq-20261003T035736951733.json
+MM archive/sijill/tawthiq-20261003T035748967363.json
+MM archive/sijill/tawthiq-20261003T035748969038.json
+MM archive/sijill/tawthiq-20261003T035748970073.json
+MM archive/sijill/tawthiq-20261003T035748971825.json
+MM archive/sijill/tawthiq-20261003T035748973477.json
+MM archive/sijill/tawthiq-20261003T035748974376.json
+MM archive/sijill/tawthiq-20261003T035748975300.json
+MM archive/sijill/tawthiq-20261003T035748976045.json
+MM archive/sijill/tawthiq-20261003T035748976760.json
+MM archive/sijill/tawthiq-20261003T035748977489.json
+MM archive/sijill/tawthiq-20261003T035748978279.json
+AM archive/sijill/tawthiq-20261109T222911059691.json
+AM archive/sijill/tawthiq-20261109T223705051327.json
+AM archive/sijill/tawthiq-20261109T223717907373.json
+AM archive/sijill/tawthiq-20261109T223803030506.json
+?? archive/sijill/ots/ras_2189_fb01e2919563c6e0.bin
+?? archive/sijill/ots/ras_2189_fb01e2919563c6e0.bin.ots
+?? archive/sijill/ots/ras_2191_102c7eb1c9f7c4e3.bin
+?? archive/sijill/ots/ras_2192_4ac565230e7d7bc3.bin
+?? archive/sijill/ots/ras_2192_4ac565230e7d7bc3.bin.ots
+?? archive/sijill/ots/ras_2195_aa39f2f833cddc93.bin
+?? archive/sijill/ots/ras_2195_aa39f2f833cddc93.bin.ots
+?? archive/sijill/tawthiq-20261110T031421952716.json
+?? archive/sijill/tawthiq-20261110T031713063203.json
+?? archive/sijill/tawthiq-20261110T032117860524.json
+?? archive/sijill/tawthiq-20261114T095628200338.json
+?? archive/sijill/tawthiq-20261114T095633875028.json
+?? archive/sijill/tawthiq-20261114T153958976622.json
+?? archive/sijill/tawthiq-20261114T163326291163.json
+?? archive/sijill/tawthiq-20261115T150735737194.json
+?? archive/sijill/tawthiq-20261116T033343529780.json
+?? archive/sijill/tawthiq-20261116T040919264982.json
+?? archive/sijill/tawthiq-20261116T045151921864.json
+?? archive/sijill/tawthiq-20261116T131454702867.json
+?? archive/sijill/tawthiq-20261116T191021562803.json
+## shasum
+b54de96b5aec180a9c0e04033b37313fa7c5bad5d2bbccaab211b80d84f4dba7  archive/sijill/ledger.jsonl
+ac3c7f25bcc8239bd62e0591becac057b3e3197488f5673085a9ebe122f203a3  archive/sijill/khatm_silsila.jsonl
+31de39a586164a4c8a9894e5c71b681b35e2b58ed258b6b1614116ea454bc2c6  archive/sijill/nafadh_index.json
+c72a1af55ba2b2af79be005af5b9cb3d0a26fb13341aedef74780afab22bcb64  archive/sijill/ots/khatm_zaman.jsonl
+## عدد الملفات في archive/sijill
+    2201
+## أسطر الدفتر
+    2195

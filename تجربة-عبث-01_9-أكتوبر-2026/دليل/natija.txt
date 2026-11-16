@@ -1,0 +1,17 @@
+base | v_trunk | rc=2 | 12s
+base | v_fixed | rc=2 | 12s
+a1_content | v_trunk | rc=2 | 11s
+a1_content | v_fixed | rc=2 | 9s
+a1_seal | v_trunk | rc=2 | 10s
+a1_seal | v_fixed | rc=2 | 11s
+a2_forge | v_trunk | rc=0 | 10s
+a2_forge | v_fixed | rc=2 | 11s
+DONE
+a3_batr | v_trunk | rc=2 | 10s
+a3_batr | v_fixed | rc=2 | 9s
+a4_bila_tawqi | v_trunk | rc=2 | 11s
+a4_bila_tawqi | v_fixed | rc=2 | 10s
+a5_batr40 | v_trunk | rc=2
+a5_batr40 | v_fixed | rc=2
+a6_ruju | v_trunk | rc=2
+a6_ruju | v_fixed | rc=2

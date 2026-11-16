@@ -1,0 +1,36 @@
+{
+  "asl": "https://github.com/up2u2b11/tawthiq-ithbat/blob/main",
+  "miraa": {
+    "malik": "up2u2b11",
+    "ism": "tawthiq-ithbat",
+    "wijha": "export/miraa-tawthiq",
+    "malahaza": "المرآةُ العلنيّةُ = محتوى مجلّدِ توثيق/ وحدَه (بقرارِ 306، 2026-11-17). الأصلُ في المستودعِ الخاصّ up2u2b-nizam. تغييرُ الاسمِ أو المالكِ هنا يُغيّرُ الرابطَ الذي يحملُه QR عندَ إعادةِ التوليد."
+  },
+  "huzma": "حزمة-2195",
+  "huzma_masdar": "export/abath_20261116/base",
+  "tajarib": [
+    {
+      "mujallad": "تجربة-عبث-01_9-أكتوبر-2026",
+      "masdar": "archive/saif/abath_20261009",
+      "malaffat": "*"
+    },
+    {
+      "mujallad": "تجربة-عبث-02_16-نوفمبر-2026",
+      "masdar": "archive/saif/abath_20261116",
+      "malaffat": [
+        "tawaqqu.md", "frozen_sha.txt", "natija.txt", "hujum.py", "hujum_out.txt", "shaghghil.sh",
+        "v_main.py", "v_qadim.py", "MANIFEST_base.sha256", "qabl.txt", "ba3d.txt",
+        "out_base__v_main.txt", "out_base__v_qadim.txt",
+        "out_a1_content__v_main.txt", "out_a1_content__v_qadim.txt",
+        "out_a1_seal__v_main.txt", "out_a1_seal__v_qadim.txt",
+        "out_a2_forge__v_main.txt", "out_a2_forge__v_qadim.txt",
+        "out_a3_batr__v_main.txt", "out_a3_batr__v_qadim.txt",
+        "out_a4_bila_tawqi__v_main.txt", "out_a4_bila_tawqi__v_qadim.txt",
+        "out_a5_batr40__v_main.txt", "out_a5_batr40__v_qadim.txt",
+        "out_a6_ruju__v_main.txt", "out_a6_ruju__v_qadim.txt",
+        "abath_muhakkim.py", "dukhan_muhakkim.txt", "out_muhakkim_1000.txt"
+      ],
+      "mahjub": "qiyas.md · out_A_live__tawthiq_verify.txt · out_C_*.txt · mafqud_ids.txt · taqassi-الخزنة_*.md — داخليّةٌ بقرارِ 306 (تمسُّ الخزنةَ وأسماءَ ملفّات)"
+    }
+  ]
+}

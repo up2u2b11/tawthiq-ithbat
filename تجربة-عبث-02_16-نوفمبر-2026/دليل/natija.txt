@@ -1,0 +1,17 @@
+# 2026-11-16 22:55:31 +0300 · Python 3.11.9 · Darwin arm64
+base | v_main | rc=2 | 10.7s
+base | v_qadim | rc=2 | 10.5s
+a1_content | v_main | rc=2 | 10.8s
+a1_content | v_qadim | rc=2 | 10.6s
+a1_seal | v_main | rc=2 | 10.7s
+a1_seal | v_qadim | rc=2 | 10.9s
+a2_forge | v_main | rc=2 | 9.5s
+a2_forge | v_qadim | rc=0 | 10.0s
+a3_batr | v_main | rc=2 | 9.6s
+a3_batr | v_qadim | rc=2 | 9.2s
+a4_bila_tawqi | v_main | rc=2 | 9.9s
+a4_bila_tawqi | v_qadim | rc=2 | 9.3s
+a5_batr40 | v_main | rc=2 | 9.3s
+a5_batr40 | v_qadim | rc=2 | 8.8s
+a6_ruju | v_main | rc=2 | 8.8s
+a6_ruju | v_qadim | rc=2 | 9.0s
